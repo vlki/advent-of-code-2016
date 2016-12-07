@@ -2,5 +2,5 @@
 
 Run:
 ```
-runhaskell adventofcode-4a.hs
+runhaskell adventofcode-4a.hs < input.txt
 ```
