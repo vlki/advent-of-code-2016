@@ -1,4 +1,4 @@
-# Advent of Code day 15, part 1
+# Advent of Code day 15, part 2
 
 Download and build with dependencies
 ```
